@@ -1,7 +1,7 @@
 # SP_2
 Praktikum 2 von Sichere Programmierung im SoSe 2022 and der Hochschule Aalen.
 Mit Nico Haisch, Friedrich Röntsch und Moritz Hausmann.
-Abgabetermin ist der ??.??.????.
+Abgabetermin ist der 03.06.2022.
 
 
 ## COMMIT-ETIQUETTE:
