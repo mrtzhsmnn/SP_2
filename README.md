@@ -11,10 +11,14 @@ https://www.conventionalcommits.org/en/v1.0.0/
 Link zur weiteren Erklärung der Keywords am Beginn des Statements.
 https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines
 
-## Aufgabenverteilung:
+## Aufgabenverteilung: **Deadline:** 23.05.2022
+### Alle: 
+**Beginnen bereits mit LaTex Dokumentation**
 ### Nico:
-**Deadline:** 
+  + Aufg 5
 ### Friedrich:
-**Deadline:** 
+  + Aufg 3
+  + Aufg 4
 ### Moritz:
-**Deadline:** 
+  + Aufg 1
+  + Aufg 2
