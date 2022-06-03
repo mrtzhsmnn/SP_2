@@ -13,18 +13,18 @@ int binarysearch(int zahl, int links, int rechts) {
     if (array[mitteleft] == zahl ){
         return mitteleft; }
     if (array[mitteright] == zahl){
-	return mitteright;}
+    	return mitteright;}
     if (links == rechts){
         return -1; }
-    if (array[mitteleft] > zahl || array[mitteright] > zahl){
+    if (array[mitteleft] > zahl){
         return binarysearch(zahl, links, mitteleft);} 
-    if (array[mitteright] < zahl || array[mitteleft] < zahl){
+    if (array[mitteright] < zahl){
         return binarysearch(zahl, mitteright, rechts);}
     return -1;
 }
 
 int main(int argc, char *argv[]) {
-  int zahl, position, i;
+    int zahl, position, i;
     if(argc < 2) {
         printf("Benutzung: %s <zu suchende Zahl>\n", argv[0]);
         return 1;
